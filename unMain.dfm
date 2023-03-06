@@ -1,0 +1,43 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMaximize]
+  Caption = 'Coba GitHub'
+  ClientHeight = 82
+  ClientWidth = 295
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  PixelsPerInch = 96
+  TextHeight = 17
+  object Label1: TLabel
+    Left = 17
+    Top = 13
+    Width = 57
+    Height = 17
+    Caption = 'My Name'
+  end
+  object txtMyName: TEdit
+    Left = 17
+    Top = 36
+    Width = 183
+    Height = 25
+    MaxLength = 20
+    TabOrder = 0
+    TextHint = 'Input Your Name..'
+  end
+  object btnOK: TButton
+    Left = 206
+    Top = 36
+    Width = 75
+    Height = 25
+    Caption = 'OK'
+    TabOrder = 1
+    OnClick = btnOKClick
+  end
+end
