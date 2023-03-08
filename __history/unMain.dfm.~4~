@@ -3,8 +3,8 @@ object Form1: TForm1
   Top = 0
   BorderIcons = [biSystemMenu, biMaximize]
   Caption = 'Coba GitHub'
-  ClientHeight = 134
-  ClientWidth = 328
+  ClientHeight = 82
+  ClientWidth = 295
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -39,23 +39,5 @@ object Form1: TForm1
     Caption = 'OK'
     TabOrder = 1
     OnClick = btnOKClick
-  end
-  object Edit1: TEdit
-    Left = 17
-    Top = 76
-    Width = 183
-    Height = 25
-    MaxLength = 20
-    TabOrder = 2
-    TextHint = 'adahus...'
-  end
-  object Button1: TButton
-    Left = 206
-    Top = 76
-    Width = 75
-    Height = 25
-    Caption = 'OK'
-    TabOrder = 3
-    OnClick = Button1Click
   end
 end
