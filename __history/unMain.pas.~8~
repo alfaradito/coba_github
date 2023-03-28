@@ -51,7 +51,7 @@ begin
   myName := Trim(Edit1.Text);
   if myName.Length > 0 then
   begin
-    MessageDlg('Hi ini SHD, namanya '+myName, mtInformation, [mbOK], 0);
+    MessageDlg('Hi SHD, '+myName, mtInformation, [mbOK], 0);
   end else
   begin
     MessageDlg('Input namanya.. ', mtError, [mbOK], 0);
