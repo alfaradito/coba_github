@@ -14,7 +14,6 @@ type
     Edit1: TEdit;
     Button1: TButton;
     procedure btnOKClick(Sender: TObject);
-    procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -39,20 +38,6 @@ begin
   end else
   begin
     MessageDlg('Please Input Your Name.. ', mtError, [mbOK], 0);
-  end;
-end;
-
-procedure TForm1.Button1Click(Sender: TObject);
-var
-  myName: String;
-begin
-  myName := Trim(Edit1.Text);
-  if myName.Length > 0 then
-  begin
-    MessageDlg('Hi SHD, '+myName, mtInformation, [mbOK], 0);
-  end else
-  begin
-    MessageDlg('Input namanya.. ', mtError, [mbOK], 0);
   end;
 end;
 
