@@ -58,7 +58,7 @@ object Form1: TForm1
     TabOrder = 3
     OnClick = Button1Click
   end
-  object edAlfa: TEdit
+  object Edit2: TEdit
     Left = 17
     Top = 116
     Width = 183
