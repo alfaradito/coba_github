@@ -3,9 +3,9 @@
 	<Transactions>
     <Transaction>2022/12/20 10:46:45.000.057,=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/12/31 07:34:03.000.881,=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/03/06 09:03:28.512,=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/03/06 09:06:34.359,D:\Private\Sinau Delphi\CobaGitHub\unMain.dfm=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/03/06 09:06:34.359,D:\Private\Sinau Delphi\CobaGitHub\unMain.pas=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/03/06 09:10:49.878,D:\Private\Sinau Delphi\CobaGitHub\CobaGitHub.dproj=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/06 09:03:28.000.512,=C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/06 09:06:34.000.359,C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Private\Sinau Delphi\CobaGitHub\unMain.dfm</Transaction>
+    <Transaction>2023/03/06 09:06:34.000.359,C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Private\Sinau Delphi\CobaGitHub\unMain.pas</Transaction>
+    <Transaction>2023/03/06 09:10:49.000.878,C:\Users\ALFA\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Private\Sinau Delphi\CobaGitHub\CobaGitHub.dproj</Transaction>
   </Transactions>
 </BorlandProject>
